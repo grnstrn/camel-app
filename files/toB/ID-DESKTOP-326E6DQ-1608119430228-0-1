@@ -1,0 +1,2 @@
+[{id=2, data=two}, {id=3, data=three}]
+{CamelJdbcColumnNames=[id, data], CamelJdbcRowCount=2, firedTime=Wed Dec 16 14:50:29 MSK 2020, key=1, rmd=kek}
